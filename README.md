@@ -1,5 +1,3 @@
 ### React Week Challenge
 
-[Solution](unspecified-2.png)
-
-<img src="unspecified-2.png"/>
+[Solution](http://s61.photobucket.com/user/bigskycodeacademy/media/unspecified-2_zpsfwld29dm.png.html)
