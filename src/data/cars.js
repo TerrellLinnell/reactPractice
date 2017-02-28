@@ -17,4 +17,4 @@ var c9 = new Car("ford", "focus", "$27,490", "http://st.motortrend.com/uploads/s
 var c10 = new Car("ford", "fiesta", "43", "https://upload.wikimedia.org/wikipedia/commons/9/9a/Fordfiesta.jpg");
 
 
-export default { cars: [c1, c2, c3, c4, c5, c6, c7], categories: ["honda", "porsche", "ford"]}
+export default { cars: [c1, c2, c3, c4, c5, c6, c7, c8, c9, c10], categories: ["honda", "porsche", "ford"]}
